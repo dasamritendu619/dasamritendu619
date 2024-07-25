@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on Share Learner Project.
 - 📫 How to reach me by Email Id (dasamritendu619@gmail.com).
 - 😄 Pronouns: @dasamritendu619.
+- ⚡ My another Github Account: https://github.com/Tendu619-hub
 
 
 <!---
