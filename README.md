@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amritendu Das.
 - 👀 I’m interested in Web development, Coding and learning any new languages.
 - 🌱 I’m currently learning B.Tech in Computer Science & Engineering.
-- ⚡ I'm now the student from College of Engineering & Management, Kolaghat from 2021 to till now. 
+- ⚡ I'm now a student at College of Engineering & Management, Kolaghat from 2021 to till now. 
 - 💞️ I’m looking to collaborate on Share Learner Project.
 - 📫 How to reach me by Email Id (dasamritendu619@gmail.com).
 - 😄 Pronouns: @dasamritendu619.
